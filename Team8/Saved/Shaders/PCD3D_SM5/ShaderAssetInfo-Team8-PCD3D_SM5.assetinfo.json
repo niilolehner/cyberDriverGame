@@ -1,0 +1,450 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3676434BDC62FFC0F194E7846C01EA9919113508",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE21B809E59889F66B6C39810C16E6D2FD37E319",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "925C0CC2C8424631A2DA6FECA250D0FFCC2C0D85",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3AE248A6F05AA5BB9DDF24C32A2BFFC45368F79",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E2C58873EE5237CF535FE59E114BCAB3435AC135",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8B55463DC6EBA46E7658781E872CD1A10795C143",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "27E36195FF2A8E5C7EFA35B1A3664D37FBA9F873",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "931F231FB74937674709FE04BDE3FC7716568737",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4B709BD6E0358ECC47D3759526C94D2B13682CF4",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4212E1855B4A0C933DE28474B88E21135631201D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EB0E9214B12D20C714F8FAC77380E20870BC318",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FFAF38520D73293207E565918C6B57F7F8E13C9",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA183A99EA3140216EA834319D300E20373F5E93",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A3609E644F6C533B8F9A24D27AB2285E2D39571D",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E63575823B1855A5BC7AB84D061AC356FBBDAFC1",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "32D281FF7B9F2B531B6A63F9B56F1FAE852490FB",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F00F2F9A3CD07DA7457B6B987ED11B739EA06895",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9F51EE54132DCE7BFFBA8FE653EF3CE494B7150",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AB2C31709D966AFC311EA77E8CF43C110BEBDFC9",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A62102EDF7922A29CF3165F3274B8B16B91B7432",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAE9DA31087D494255A0610F70EF6D831D19D10E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5E8F202B8EC49330571FE4E974F4C1DC111699",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "56B1B26291F2A93036D693A99C17271296B6D747",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5E54F8731E4DB06305E2C922AD4FA917B06EF3DF",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AD3B1EE8E520055A0DFECE9D37E93134BDCCB50E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0042AAEE9D5EF1F678BC41F998BFA45A32FB002E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8B14E8306260C0DD2BEBD163F779582F3935B7B7",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5D5CE78AF765895B0E693106AA943D2E2F24E78A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5A0BC7AD83F40EBDA903D52167D2644A53CEE9FE",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Vehicles/FinalCar/Materials/Windows.uasset",
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Vehicles/FinalCar/Materials/TiresCenter.uasset",
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Vehicles/FinalCar/Materials/Tires.uasset",
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Vehicles/FinalCar/Materials/Material_001.uasset",
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Vehicles/FinalCar/Materials/Lamp2.uasset",
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Vehicles/FinalCar/Materials/Lamp.uasset",
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Vehicles/FinalCar/Materials/Detail.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "83CC6FB960EF114A33EE13E38D7237DE3B4118F1",
+			"Assets": [
+				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9711D05FBCD40BA8349D89C8E6889ACDBF14076A",
+			"Assets": [
+				"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6E0EAA599FE914BB66D2B50E24C9E894DF302A2E",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Materials/KyberPurpleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EC9AE6247410FBB1120182E64961FE9917F025C2",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Materials/KyberChromeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "040BB8DCB003F495FD9AD7E67786CBEADDF172C5",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F24E6F8F0B85CB27331661F0341DB6AF4934AEDD",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/ReferenceVehicle/Sedan/Materials/M_Vehicle_Sedan.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/ReferenceVehicle/Sedan/Materials/M_Vehicle_Sedan_Inst_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3A70EA616235E999681CE0F876F989FAD72037BB",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Materials/KyberAsphaltMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Meshes/Material_001.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7FB2F8B8CB68D1739E6FB3D769D02D14F014C5F7",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Materials/KyberRedMaterial.uasset",
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Materials/KyberGreenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1777C27D91807A32C9D82625DF38D9D6C940E463",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Materials/KyberBlueMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "06936CB8DE01AC9F239058C495B7637B8E9EB468",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material.uasset",
+				"../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Inst.uasset",
+				"../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Lake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "28EB6017B260E55E0821C0375829BBEEDA1A0593",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Ocean.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8E98270271DBBA5F8784D3EB44C90FAAF81D33D7",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/PostProcessing/M_UnderWater_PostProcess_Volume.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3051B088CAAAAF325DFC8A7165E27CF5738BD679",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Materials/KyberEarthMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "72843D043D10883A9BD092D096E58DC91209B2B0",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "86C5316DB753DF21263B43958AEF0CD8E00D5000",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/GoodSky/Source/Materials/M_GoodSky_Base.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "34E093A0693176D7EFC676DEE43D5FCBF663C586",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9DDA29F44EA84FACF6BA09B22D01284502300A14",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars_Moon.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BA5DE7805717342613E001929DE764C7CBF2FA49",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD10B13A503706A4BABF26112FDD6DEE4C6545B0",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EB5C765A18274515439ACB0F7AB96F40D95311AD",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/Brushes/MeshBrush_Width.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "40C79C76694982A793E46100C72A9E38C5A7DC93",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/Brushes/MeshBrush_Weightmap.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "06FAB394A8043DA46C5A5CF0E1484ED0A6E33712",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/Brushes/MeshBrush_Island.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "35687FEEB5A2B6BFC37CED9476CD3D59821548E3",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/Brushes/MeshBrush_Angle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD2EC2D2F921E35429C5E006641A28C41E306910",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/Brushes/FinalizeWaterTexture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0E79E8F2D64C7E839A4FB077579F229240F68E4D",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/Brushes/CompositeWaterBodyTexture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69F67241BC7AF9AB67C36110116BD129F262061C",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/Brushes/CanvasDrawing.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C5E81691E3CE15AB9049D29CCBDE438D3FAE5D14",
+			"Assets": [
+				"../../Plugins/Experimental/Landmass/Content/Landscape/BlueprintBrushes/Materials/RenderSplineDepths.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "860A2ED9B49FCDC22B6F270A551698A4F626BF5B",
+			"Assets": [
+				"../../Plugins/Experimental/Landmass/Content/Landscape/BlueprintBrushes/Materials/CacheDistanceField.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D0B2FEF4BD3437A8749E549CD6449ACB28B1F3F",
+			"Assets": [
+				"../../Plugins/Experimental/Landmass/Content/DistanceFields/Materials/JumpFloodStep.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0B8BF0D1F504A4B52F1344A87AF9F87EEAA8F138",
+			"Assets": [
+				"../../Plugins/Experimental/Landmass/Content/DistanceFields/Materials/DetectEdges.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "64C7304834F2FD2B5B3870CBCA203BF2E1C558D8",
+			"Assets": [
+				"../../Plugins/Experimental/Landmass/Content/DistanceFields/Materials/BlurEdges.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "874CCF867060B80DCDFE18E325A159ECB3BC33E4",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Materials/PinkGlassMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "115B43C6D8908671104B90B2F8FA449560792668",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_River.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E9F3D95E5FFCF624ED1018DE3524C1590C244B58",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Transitions/Water_Material_River_To_Ocean_Transition.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "925525A90CFECD186D8D68A80F6A4FE768171901",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Levels/Monsoon_Level/Monsoon_Level.uasset",
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Levels/Metropoli_Level/Metropoli_level.uasset",
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Levels/SmallAtoll_Level/Prototype_Race.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "179FFC38CB6A87D0A40757AB94DC1D1D2719E9A2",
+			"Assets": [
+				"../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Transitions/Water_Material_River_To_Lake_Transition.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "152393650AE161E1A14009A917486025A1FCE144",
+			"Assets": [
+				"../../../../../../STORAGE/DEV/GitHub/kesapeli2021/Team8/Content/Team8_Materials/Cyber_arrow_banner.uasset"
+			]
+		}
+	]
+}
